@@ -6,7 +6,7 @@ app = Flask(__name__)
 PRODUCTS = [
     {
         "id": 1,
-        "name": "سويتشيرت هوودي أوففر سايز",
+        "name": "هوودي أوفر سايز",
         "category": "sweatshirts",
         "price": 450,
         "image": "sweatshirt1.jpg",
